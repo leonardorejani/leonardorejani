@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1863dc&height=180&section=header&text=Leonardo%20Rejani&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Audiovisual%20Producer&descSize=16&descAlignY=55&descColor=ffffffaa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1C34FFc&height=180&section=header&text=Leonardo%20Rejani&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Audiovisual%20Producer&descSize=16&descAlignY=55&descColor=ffffffaa" />
 
 ## Sobre mim
 
