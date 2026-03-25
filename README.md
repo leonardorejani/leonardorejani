@@ -39,16 +39,16 @@ Hoje integro minha bagagem criativa com tecnologia: atuo como **desenvolvedor fu
 
 <div>
   <a href="https://www.linkedin.com/in/leonardo-rejani-59559331b" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=1863dc" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/leonardorejani" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=1863dc" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.behance.net/leonardorejaniport" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-0d1117?style=for-the-badge&logo=behance&logoColor=1863dc" alt="Behance" />
+    <img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a>
   <a href="https://wa.me/5544984097902" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=1863dc" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
