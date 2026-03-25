@@ -35,25 +35,6 @@ Hoje integro minha bagagem criativa com tecnologia: atuo como **desenvolvedor fu
   <img src="https://skillicons.dev/icons?i=git" height="48" title="Git" alt="Git" />
 </div>
 
-## GitHub Stats
-
-<div align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardorejani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1863dc&text_color=ffffff&icon_color=1863dc&ring_color=1863dc" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardorejani&layout=compact&hide_border=true&bg_color=0d1117&title_color=1863dc&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=leonardorejani&hide_border=true&background=0d1117&ring=1863dc&fire=1863dc&currStreakLabel=1863dc&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffffaa" alt="GitHub Streak" />
-
-## Contribuicoes
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardorejani/leonardorejani/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardorejani/leonardorejani/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/leonardorejani/leonardorejani/output/github-snake-dark.svg" />
-</picture>
-
 ##
 
 <div>
