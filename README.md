@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-Sou de Maringa-PR, comecei minha carreira em 2021 na producao de audio e edicao para radio. Com mais de cinco anos de experiencia em **design grafico** e **edicao de video**, produzi grandes eventos da cidade — incluindo a **Missionaria Night Run**, corrida noturna reconhecida no calendario oficial do municipio que reuniu milhares de participantes.
+Sou de Maringa-PR, com mais de cinco anos de experiencia em **design grafico** e **edicao de video**, produzi grandes eventos da cidade da cidade que reuniu milhares de participantes.
 
-Formado em **Analise e Desenvolvimento de Sistemas**, hoje integro minha bagagem criativa com tecnologia: atuo como **desenvolvedor full stack** criando aplicacoes web para grandes empresas, e desenvolvo **apps mobile** (Android/iOS) por hobbie.
+Hoje integro minha bagagem criativa com tecnologia: atuo como **desenvolvedor full stack** criando aplicacoes web para grandes empresas, desenvolvo **apps mobile** (Android/iOS) por hobbie.
 
 ## Linguagens e Frameworks
 
